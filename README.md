@@ -21,3 +21,5 @@ All datas are available here : [fsa.usda.gov](https://www.fsa.usda.gov/news-room
 This script takes a list of years as argument.
 For each year, the data are extracted from the website, saved into a `.zip` file and extracted in the `data/` folder.
 The `country_data` Excel sheet is extracted for each year and converted into a dataframe with the publication date.
+
+<img width="664" alt="Capture" src="https://user-images.githubusercontent.com/60392311/205358102-74c365aa-2640-464f-9b1a-e2e98884749d.PNG">
